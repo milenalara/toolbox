@@ -23,4 +23,3 @@
 
 * O Front-End da aplicação deve ser rodado com a extensão Live Server do Visual Studio Code
 * O Back-end da aplicação pode ser rodada a partir do prompt de comando usando as instruções `dotnet build` e em seguida `dotnet run`
-# toolbox
