@@ -26,14 +26,6 @@ _Curso de Engenharia de Software, Unidade Praça da Liberdade_
 
 _Instituto de Informática e Ciências Exatas – Pontifícia Universidade de Minas Gerais (PUC MINAS), Belo Horizonte – MG – Brasil_
 
----
-
-_**Resumo**. Escrever aqui o resumo. O resumo deve contextualizar rapidamente o trabalho, descrever seu objetivo e, ao final, 
-mostrar algum resultado relevante do trabalho (até 10 linhas)._
-
----
-
-
 ## 1. Introdução
 
 O aluguel de objetos tem se consolidado como uma alternativa viável para quem precisa utilizar itens por um curto período de tempo, sem precisar investir na sua aquisição. Nesse contexto, os sites de aluguel de objetos têm ganhado espaço como uma opção conveniente e acessível para os usuários. Segundo a consultoria americana Grand View Research, o mercado global de aluguel de objetos deve crescer a uma taxa anual composta de 7,9% entre 2019 e 2025, impulsionado pela popularização dos sites de aluguel. 
