@@ -1,0 +1,32 @@
+cff-version: 1.0.1
+message: Please cite this software using these metadata.
+title: ToolBox
+authors:
+  - family-names: Gonçalves Brandão
+    given-names: Davi
+  - family-names: Emidio Mendes
+    given-names: Kelly Cristina
+  - family-names: Lara Reis Ferreira
+    given-names: Milena
+  - family-names: Mendes Peixoto
+    given-names: Ramon 
+  - family-names: Mendes Peixoto
+    given-names: Rodrigo
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Bastos de Paula
+    given-names: Hugo 
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Alonso Veloso
+    given-names: Eveline 
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Nicolini Silva
+    given-names: Thiago Augusto   
+keywords:
+  - Processos de Negócios
+repository-code: https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2023-1-ti2-0940100-toolbox
+license: CC-BY-4.0
+version: 1.0.0
+date-released: 2023-06-26

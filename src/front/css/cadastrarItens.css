@@ -1,0 +1,57 @@
+.container{
+    margin-top: 60px;
+}
+.botao_vermelho{
+    color: #F2F2F1;
+    background: #F05742;
+    line-height: 2.0em;
+    padding: 0px 10px 0 10px;
+    border: #ff1e00;
+    font-size: 15px;
+    cursor:pointer;
+    border-radius: 5px;
+}
+.menu-lateral {
+  position: fixed;
+  top: 50%;
+  left: 0;
+  transform: translateY(6.5%);
+  z-index: 9999;
+}
+.modalResponse {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  }
+
+  
+  .modal-content {
+    background-color: white;
+    border-radius: 5px;
+    width: 60%;
+  }
+  .card {
+    border: 1px solid #ccc;
+    padding: 5px;
+    width: 100px;
+    display: inline-block;
+    margin: 10px;
+}
+.card img {
+    max-width: 100%;
+    height: auto;
+}
+.cardContainer{
+  margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    padding: 5px;
+
+}
+

@@ -1,0 +1,15 @@
+.tabela-emprestimos,
+.formulario-usuario {
+  margin: 130px 200px 100px 200px;
+}
+.menu-lateral {
+  position: fixed;
+  top: 50%;
+  left: 0;
+  transform: translateY(6.5%);
+  z-index: 9999;
+}
+
+.secao-header {
+  margin-top: 50px;
+}

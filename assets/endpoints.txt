@@ -1,0 +1,40 @@
+create Usuario
+
+
+get Usuario
+
+create Dados Bancários
+
+get Dados Bancários
+
+create Telefone
+
+get Telefone
+
+create Endereco
+
+get Endereco
+
+create Produto
+
+get Produto
+
+create Imagem do Produto
+
+get Imagem do Produto
+
+create Emprestimo
+
+get Emprestimo
+
+create Categoria
+
+get Categoria
+
+create Anuncio
+
+get Anuncio
+
+
+
+
