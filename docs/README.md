@@ -1,15 +1,15 @@
 # TOOLBOX
 
 
-**Davi Goncalves Brandao, email do aluno 1**
+**Davi Goncalves Brandao**
 
-**Kelly Cristina Emidio Mendes, email do aluno 2**
+**Kelly Cristina Emidio Mendes**
 
-**Milena Lara Reis Ferreira, email do aluno 3**
+**Milena Lara Reis Ferreira**
 
-**Ramon Mendes Peixoto, email do aluno 3**
+**Ramon Mendes Peixoto**
 
-**Rodrigo Mendes Peixoto, email do aluno 3**
+**Rodrigo Mendes Peixoto**
 
 ---
 
